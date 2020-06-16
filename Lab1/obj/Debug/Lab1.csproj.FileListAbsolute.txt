@@ -1,0 +1,13 @@
+C:\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\4 курс\Lab1\Lab1\bin\Debug\Lab1.exe.config
+E:\4 курс\Lab1\Lab1\obj\Debug\Lab1.csprojResolveAssemblyReference.cache
+E:\4 курс\Lab1\Lab1\bin\Debug\Lab1.exe
+E:\4 курс\Lab1\Lab1\bin\Debug\Lab1.pdb
+E:\4 курс\Lab1\Lab1\obj\Debug\Lab1.exe
+E:\4 курс\Lab1\Lab1\obj\Debug\Lab1.pdb
+D:\github to\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe.config
+D:\github to\Lab1\Lab1\Lab1\bin\Debug\Lab1.exe
+D:\github to\Lab1\Lab1\Lab1\bin\Debug\Lab1.pdb
+D:\github to\Lab1\Lab1\Lab1\obj\Debug\Lab1.csprojAssemblyReference.cache
+D:\github to\Lab1\Lab1\Lab1\obj\Debug\Lab1.exe
+D:\github to\Lab1\Lab1\Lab1\obj\Debug\Lab1.pdb
